@@ -1,0 +1,5 @@
+Variables: Una variable es una palabra, numero o orden que se puede guardar con un nombre que tu eliges para luego usarlo mas tarde
+Strings: Es una cadena de letras que va a formar una palabra donde va a ir entre " ".
+Funciones (argumentos, return): Las funciones son un bloque de codigo que va a llevar a cabo una orden. Los argumentos son variables que se van a poder usar en la function. El return es lo que va a retornar en una function y siempre va al final de la function ya que luego de escribir abajo de return ese codigo no va a funcionar. Obviamente hay excepciones.
+Declaraciones if: El if es una forma de que verifique que algo es verdad y al hacerlo si cumple una orden y si no se cumplira otra o acabara hay.
+Valores booleanos (true, false): estos valores representa verdad y falso.
